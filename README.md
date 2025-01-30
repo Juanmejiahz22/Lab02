@@ -1,1 +1,1 @@
-# Lab02
+# LABORATORIO #1: Control de Versiones Distribuido (CVDS)
